@@ -2,7 +2,6 @@ Package: com.mchamp90.mugixextended
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
-Depends: snowboard, anemone
 Filename: /MugiX-Extended.deb
 Size: 18287700
 Section: Themes
