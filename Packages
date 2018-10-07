@@ -1,9 +1,12 @@
 Package: com.mchamp90.mugixextended
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
 Filename: /MugiX-Extended.deb
-Size: 20105748
+Size: 20106064
+MD5sum: a48ce5342c3c38513bf455e55a1f5e44
+SHA1: d17f179dff902c254ff71451204e9e053dda3c5a
+SHA256: aec505ba9556082d06bae6aed6c74e50d530284a24fda7ec7c805b327f44263f
 Section: Themes
 Description: A custom theme by mchamp90 - MugiX-Extended includes tons of icons the original Dev left out
 Author: mchamp90 <mchamp23@gmail.com>
