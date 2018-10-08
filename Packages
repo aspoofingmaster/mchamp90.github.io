@@ -12,3 +12,18 @@ Description: A custom theme by mchamp90 - MugiX-Extended includes tons of icons 
 Author: mchamp90 <mchamp23@gmail.com>
 Name: MugiX-Extended
 Depiction: http://mchamp90.github.io/description.html?id=com.mchamp90.mugixextended
+
+Package: com.mchamp90.maxixextended
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: mchamp90 <mchamp23@gmail.com>
+Filename: /MaxiX-Extended.deb
+Size: 23735460
+MD5sum: b01d84b0b17c0a5f6ca4f276213615fb
+SHA1: a9e011b676f3e9d55c22cc00547760c8f06b9ab2
+SHA256: b001400471705c9a897a49ac762b013027776b2d3a433e20a127075effd2ef65
+Section: Themes
+Description: A custom theme by mchamp90 - MaxiX-Extended includes tons of icons the original Dev left out
+Author: mchamp90 <mchamp23@gmail.com>
+Name: MugiX-Extended
+Depiction: http://mchamp90.github.io/description.html?id=com.mchamp90.maxixextended
