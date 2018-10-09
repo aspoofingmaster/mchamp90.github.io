@@ -11,6 +11,7 @@ Section: Themes
 Description: A custom theme by mchamp90 - MugiX-Extended includes tons of icons the original Dev left out
 Author: mchamp90 <mchamp23@gmail.com>
 Name: MugiX-Extended
+Icon: assets/page-icons/mugix.png
 Depiction: http://mchamp90.github.io/package/MugiX-Extended/index.html
 
 Package: com.mchamp90.maxixextended
@@ -26,4 +27,5 @@ Section: Themes
 Description: A custom theme by mchamp90 - MaxiX-Extended includes tons of icons the original Dev left out
 Author: mchamp90 <mchamp23@gmail.com>
 Name: MaxiX-Extended
-Depiction: http://mchamp90.github.io/package/MaxiX-Extended/index
+Icon: assets/page-icons/maxix.png
+Depiction: http://mchamp90.github.io/package/MaxiX-Extended/index.html
