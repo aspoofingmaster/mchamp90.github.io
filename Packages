@@ -1,31 +1,29 @@
 Package: com.mchamp90.mugixextended
-Version: 1.3
+Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
 Filename: package/MugiX-Extended/MugiX-Extended.deb
-Size: 29199144
-MD5sum: da77a65d69684a84dd9d67ec816b6982
-SHA1: d4a669617c01b956de1f550371453f62df1f218b
-SHA256: e5bcdcc7a644d41b153f684a622683e8905cc265b7c5ec62b5e6f1277a94a2d1
+Size: 29589954
+MD5sum: 005edc5cfc0d8df6a460059b7d830662
+SHA1: 3ce7148967ba3077e6e89d86b25ed15f578dc6e6
+SHA256: d15a937200a2fc8f91576fcb9dbacedd03c06d98e2a7c594e5d67137df504c82
 Section: Themes
 Description: A custom theme by mchamp90 - MugiX-Extended includes tons of icons the original Dev left out
 Author: mchamp90 <mchamp23@gmail.com>
 Name: MugiX-Extended
-Icon: http://mchamp90.github.io/assets/page-icons/mugix57.png
 Depiction: http://mchamp90.github.io/package/MugiX-Extended/index.html
 
 Package: com.mchamp90.maxixextended
-Version: 1.3
+Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
 Filename: package/MaxiX-Extended/MaxiX-Extended.deb
-Size: 23735460
-MD5sum: b01d84b0b17c0a5f6ca4f276213615fb
-SHA1: a9e011b676f3e9d55c22cc00547760c8f06b9ab2
-SHA256: b001400471705c9a897a49ac762b013027776b2d3a433e20a127075effd2ef65
+Size: 24096636
+MD5sum: 94c95d9cca8885c09d295289b2cf725c
+SHA1: 11fc28c248a5ff04a9da48b4812fd17a36ec01ee
+SHA256: ba67e2d2eb5f0a7eba85034b4fa295b7fe1c1f4b057dba4d85736a58e4397117
 Section: Themes
 Description: A custom theme by mchamp90 - MaxiX-Extended includes tons of icons the original Dev left out
 Author: mchamp90 <mchamp23@gmail.com>
 Name: MaxiX-Extended
-Icon: http://mchamp90.github.io/assets/page-icons/maxix57.png
 Depiction: http://mchamp90.github.io/package/MaxiX-Extended/index.html
