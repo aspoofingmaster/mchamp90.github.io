@@ -2,7 +2,7 @@ Package: com.mchamp90.maxixextended
 Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
-Filename: ./MaxiX-Extended.deb
+Filename: /MaxiX-Extended.deb
 Size: 24608978
 MD5sum: 3e1e61ea8f87e6602d7c0d48643fa06e
 SHA1: 492806ee9682ad708a35392d300fc71f24d11dd7
@@ -17,7 +17,7 @@ Package: com.mchamp90.mugimaxixextended
 Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
-Filename: ./MugiMaxiX-Extended.deb
+Filename: /MugiMaxiX-Extended.deb
 Size: 54649182
 MD5sum: c842390b0c5f850f59d8cf4111e5de47
 SHA1: 657343e5bec95cdc53c17e1b0b6d88a033667daa
@@ -32,7 +32,7 @@ Package: com.mchamp90.mugixextended
 Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
-Filename: ./MugiX-Extended.deb
+Filename: /MugiX-Extended.deb
 Size: 30035150
 MD5sum: 5d6d1c771625ecfc7ca8f4e7070d1cb7
 SHA1: 00164aa652cb60f9ff79e754e138988dc56deafc
