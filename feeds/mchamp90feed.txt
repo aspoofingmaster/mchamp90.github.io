@@ -30,6 +30,7 @@
 44.098415,-93.196152,278P,Chuck Hilstad Memorial,Wingull Nest
 44.096844,-93.223389,128,St. John's Cemetery
 44.108982,-93.212006,128,Good Shepherd Church
+44.114551,-93.224181,128,North Bluff Park
 44.083973,-93.241043,128,Starbucks/Sprint Pokestops
 44.095046,-93.220710,320P,Chamber's Memorial,Wailmer Nest
 44.098873,-93.221085,128,14th Street Water Tower
