@@ -7,7 +7,7 @@
 29.758617,-95.371269,234,Sam Houston Park,Stantler Nest
 37.508693,127.100044,83,Seoul,Lotte Mall
 40.782363,-73.965614,43,Central Park NYC,Oddish Nest
-44.105403,-93.229919,128,Home,My Apartment
+44.105403,-93.229919,USA,Home,My Apartment
 44.075623,-93.206882,128,Brian's House,Trading Spot
 44.088863,-93.236984,4P,WH - Start,Charmander Nest
 44.088688,-93.237534,4P,WH - Metal Swirls,Charmander Nest
