@@ -3,58 +3,59 @@
 35.444023,139.640518,218,Yokohama Stadium,Slugma Nest
 35.711193,139.773788,211,Ueno Park,Qwilfish Nest
 34.713184,135.574661,370P,Osaka Park,Luvdisc Nest
-41.905198,-87.700903,0,Humboldt Park
-29.758617,-95.371269,0,Sam Houston Park
-37.508693,127.100044,0,Lotte Mall - Seoul
-40.782363,-73.965614,25P,Central Park NYC,Pikachu Nest
-44.105403,-93.229919,0,Home
-44.075623,-93.206882,0,Brian's House
-44.088863,-93.236984,0,WH - Start
-44.088688,-93.237534,0,WH - Metal Swirls
-44.089756,-93.237930,0,WH - Black Vase of Snakes
-44.089962,-93.239243,0,WH - Cottage 11
-44.088253,-93.241989,0,WH - Children's Monument
-44.088619,-93.238784,0,WH - Metal Glass Tower
-44.086483,-93.235031,0,Willow Park
-44.066242,-93.205946,0,Buecksler Park
-44.073181,-93.206451,0,Sid Kinyon Courts Park
-44.068061,-93.232803,0,Minot Brown Park
-44.084011,-93.225784,0,Time Bomb
-44.083630,-93.224777,0,First Baptist Church
-44.084599,-93.229523,0,Bike Shop - Owatonna
-44.084652,-93.223251,0,Post Office - Owatonna
-44.088886,-93.220764,0,Fremont Park
-44.091114,-93.216247,0,Chuck Fuller Field
-44.080143,-93.232301,0,Skate Park
-44.096752,-93.195449,0,Legend of Owatonna
-44.098415,-93.196152,0,Chuck Hilstad Memorial
-44.096844,-93.223389,0,St. John's Cemetery
-44.108982,-93.212006,0,Good Shepherd Church
-44.083973,-93.241043,0,Starbucks/Sprint Pokestops
-44.095046,-93.220710,0,Chamber's Memorial
-44.098873,-93.221085,0,14th Street Water Tower
-44.103870,-93.221633,0,Manthey Park - SE
-44.077110,-93.227310,0,Parish Welcome Center
-44.076740,-93.226378,0,Fareway
-44.080112,-93.223785,0,Holy Carved Door
-44.081188,-93.219193,0,Academy Street Water Tower
-44.079250,-93.215667,0,Trinity Church
-44.071258,-93.215682,0,St. John's Church
-44.073528,-93.211258,0,Redeemer Church
-44.077862,-93.207474,0,In Honor of Watschke
-44.084385,-93.199219,0,Victory Church
-44.064438,-93.227448,0,VFW
-44.071007,-93.244919,0,Lake Kholmeier
-44.069389,-93.223800,0,Community Center
-44.069207,-93.218063,0,Hitch-in-Rock
-44.067108,-93.218948,0,Trophy Display Case
-44.067566,-93.216736,0,Fairgrounds Water Tower
-44.110179,-93.251472,0,Healthy Lap Trail Head
-44.111866,-93.250443,0,Reflection Chapel - Hospital
-44.121105,-93.248108,0,Airport
-44.134541,-93.250656,0,Cabela's - Pokestops
-44.134907,-93.249435,0,Cabela's - Gym
-44.126202,-93.245468,0,Clinton Falls Hall
-44.141948,-93.236022,0,R. Mauer - D. Olson Building
-44.051933,-93.207320,0,Historic Owatonna Town Hall
-44.052750,-93.254517,0,River View Pool Totem Pole
+41.905198,-87.700903,126,Humboldt Park,Magmar Nest
+29.758617,-95.371269,234,Sam Houston Park,Stantler Nest
+37.508693,127.100044,83,Seoul,Lotte Mall
+40.782363,-73.965614,43,Central Park NYC,Oddish Nest
+44.105403,-93.229919,128,Home,My Apartment
+44.075623,-93.206882,128,Brian's House,Trading Spot
+44.088863,-93.236984,4P,WH - Start,Charmander Nest
+44.088688,-93.237534,4P,WH - Metal Swirls,Charmander Nest
+44.089756,-93.237930,4P,WH - Black Vase of Snakes,Charmander Nest
+44.089962,-93.239243,4P,WH - Cottage 11,Charmander Nest
+44.088253,-93.241989,4P,WH - Children's Monument,Charmander Nest
+44.088619,-93.238784,4P,WH - Metal Glass Tower,Charmander Nest
+44.086483,-93.235031,128,Willow Park
+44.066242,-93.205946,128,Buecksler Park
+44.073181,-93.206451,128,Sid Kinyon Courts Park
+44.068061,-93.232803,128,Minot Brown Park
+44.084011,-93.225784,128,Time Bomb
+44.083630,-93.224777,128,First Baptist Church
+44.084599,-93.229523,128,Bike Shop - Owatonna
+44.084652,-93.223251,128,Post Office - Owatonna
+44.088886,-93.220764,128,Fremont Park
+44.091114,-93.216247,128,Chuck Fuller Field
+44.080143,-93.232301,127P,Skate Park,Pinsir Nest
+44.096752,-93.195449,278P,Legend of Owatonna,Wingull Nest
+44.098415,-93.196152,278P,Chuck Hilstad Memorial,Wingull Nest
+44.096844,-93.223389,128,St. John's Cemetery
+44.108982,-93.212006,128,Good Shepherd Church
+44.083973,-93.241043,128,Starbucks/Sprint Pokestops
+44.095046,-93.220710,320P,Chamber's Memorial,Wailmer Nest
+44.098873,-93.221085,128,14th Street Water Tower
+44.103870,-93.221633,318,Manthey Park - SE, Cravanha Nest
+44.077110,-93.227310,128,Parish Welcome Center
+44.076740,-93.226378,128,Fareway
+44.080112,-93.223785,128,Holy Carved Door
+44.081188,-93.219193,128,Academy Street Water Tower
+44.079250,-93.215667,128,Trinity Church
+44.071258,-93.215682,128,St. John's Church
+44.073528,-93.211258,128,Redeemer Church
+44.077862,-93.207474,128,In Honor of Watschke
+44.084385,-93.199219,128,Victory Church
+44.064438,-93.227448,128,VFW
+44.071007,-93.244919,316,Lake Kholmeier,Gulpin Nest
+44.065724,-93.240820,218,Kaplans Woods Hiking Trail,Slugma Nest
+44.069389,-93.223800,104P,Community Center,Cubone Nest
+44.069207,-93.218063,104P,Hitch-in-Rock,Cubone Nest
+44.067108,-93.218948,104P,Trophy Display Case,Cubone Nest
+44.067566,-93.216736,104P,Fairgrounds Water Tower,Cubone Nest
+44.110179,-93.251472,128,Healthy Lap Trail Head
+44.111866,-93.250443,128,Reflection Chapel - Hospital
+44.121105,-93.248108,128,Airport
+44.134541,-93.250656,128,Cabela's - Pokestops
+44.134907,-93.249435,128,Cabela's - Gym
+44.126202,-93.245468,128,Clinton Falls Hall
+44.141948,-93.236022,128,R. Mauer - D. Olson Building
+44.051933,-93.207320,128,Historic Owatonna Town Hall
+44.052750,-93.254517,128,River View Pool Totem Pole
