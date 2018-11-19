@@ -7,7 +7,7 @@
 29.758617,-95.371269,234,Sam Houston Park,Stantler Nest
 37.508693,127.100044,83,Seoul,Lotte Mall
 40.782363,-73.965614,43,Central Park NYC,Oddish Nest
-44.105403,-93.229919,USA,Home,My Apartment
+44.105403,-93.229919,-3,Home,My Apartment
 44.075623,-93.206882,128,Brian's House,Trading Spot
 44.088863,-93.236984,4P,WH - Start,Charmander Nest
 44.088688,-93.237534,4P,WH - Metal Swirls,Charmander Nest
@@ -24,7 +24,7 @@
 44.084599,-93.229523,128,Bike Shop - Owatonna
 44.084652,-93.223251,128,Post Office - Owatonna
 44.088886,-93.220764,128,Fremont Park
-44.091114,-93.216247,128,Chuck Fuller Field
+44.091114,-93.216247,213,Chuck Fuller Field,Shuckle Nest
 44.080143,-93.232301,127P,Skate Park,Pinsir Nest
 44.096752,-93.195449,278P,Legend of Owatonna,Wingull Nest
 44.098415,-93.196152,278P,Chuck Hilstad Memorial,Wingull Nest
