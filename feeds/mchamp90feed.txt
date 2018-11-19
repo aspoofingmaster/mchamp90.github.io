@@ -1,5 +1,5 @@
 ​22.937103,120.223587,126,Tainan Park,Magmar Nest
-37.808635,-122.409355,128,San Fran,Pier 39 1F1FA 1F1F8
+37.808635,-122.409355,128,San Fran,Pier 39
 35.444023,139.640518,218,Yokohama Stadium,Slugma Nest
 35.711193,139.773788,211,Ueno Park,Qwilfish Nest
 34.713184,135.574661,370P,Osaka Park,Luvdisc Nest
@@ -31,7 +31,7 @@
 44.096844,-93.223389,-3,St. John's Cemetery
 44.108982,-93.212006,-3,Good Shepherd Church
 44.114551,-93.224181,-3,North Bluff Park
-44.083973,-93.241043,-1,Starbucks/Sprint Pokestops
+44.083973,-93.241043,-11,Starbucks/Sprint Pokestops
 44.095046,-93.220710,320P,Chamber's Memorial,Wailmer Nest
 44.098873,-93.221085,-3,14th Street Water Tower
 44.103870,-93.221633,318,Manthey Park - SE, Cravanha Nest
@@ -54,7 +54,7 @@
 44.110179,-93.251472,-3,Healthy Lap Trail Head
 44.111866,-93.250443,-3,Reflection Chapel - Hospital
 44.121105,-93.248108,-3,Airport
-44.134541,-93.250656,-1,Cabela's - Pokestops
+44.134541,-93.250656,-11,Cabela's - Pokestops
 44.134907,-93.249435,-3,Cabela's - Gym
 44.126202,-93.245468,-3,Clinton Falls Hall
 44.141948,-93.236022,-3,R. Mauer - D. Olson Building
