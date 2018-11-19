@@ -1,5 +1,5 @@
 ​22.937103,120.223587,126,Tainan Park,Magmar Nest
-37.808635,-122.409355,128,San Fran,Pier 39, :us:
+37.808635,-122.409355,128,San Fran,Pier 39 :us:
 35.444023,139.640518,218,Yokohama Stadium,Slugma Nest
 35.711193,139.773788,211,Ueno Park,Qwilfish Nest
 34.713184,135.574661,370P,Osaka Park,Luvdisc Nest
