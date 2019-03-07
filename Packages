@@ -1,12 +1,12 @@
 Package: com.mchamp90.maxixextended
-Version: 1.9
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
 Filename: /MaxiX-Extended.deb
-Size: 25383796
-MD5sum: 656b9c4a5afa2a893ac8838fce331d19
-SHA1: 1f1c686549a2e853f543335b11889d55e7deb587
-SHA256: a3d80d7201c412377727d4f2c996817bf3c3f4a3a895046133fcfe0c9969070b
+Size: 25996822
+MD5sum: 6a1c89f6df4cd8d47a231fde2e92b184
+SHA1: 3c54f8999b0f083db918a9e0d205fab2a61b49e1
+SHA256: a3ec3ab3912d0a4ca3a78577ffb57b215451603d307fb63920ad7e09aa50de05
 Section: Themes
 Description: A custom theme by mchamp90 - MaxiX-Extended includes tons of icons the original Dev left out
 Author: mchamp90 <mchamp23@gmail.com.com>
@@ -14,14 +14,14 @@ Depiction: http://mchamp90.github.io/package/MaxiX-Extended/index.html
 Name: MaxiX-Extended
 
 Package: com.mchamp90.mugimaxixextended
-Version: 1.9
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
 Filename: /MugiMaxiX-Extended.deb
-Size: 56197760
-MD5sum: 5d67f55b11d2097ce20e6bb804d89b77
-SHA1: f12c87d746742a05fb14daa82184d85a35b00e1f
-SHA256: de7cab4f4c4828e90b41aceda5c468776ff7d75d4f0b823aa8916909f37569ec
+Size: 57421180
+MD5sum: 25511391d4231c087d4f2378fc6a3735
+SHA1: 90e14d18097e9436dc3f01e23f2ed44d09dfbddd
+SHA256: 8073311dc9dc19a298da5e6ab1f42a6dea4688d40abfd11acde63d6c754dcdb2
 Section: Themes
 Description: A custom theme by mchamp90 - MugiMaxiX-Extended combines MugiX-Extended and MaxiX-Extended in one neat package
 Author: mchamp90 <mchamp23@gmail.com.com>
@@ -29,14 +29,14 @@ Depiction: http://mchamp90.github.io/package/MugiMaxiX-Extended/index.html
 Name: MugiMaxiX-Extended
 
 Package: com.mchamp90.mugixextended
-Version: 1.9
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
 Filename: /MugiX-Extended.deb
-Size: 30809546
-MD5sum: 4d9fb7df627e1e91012477e8ce2260f3
-SHA1: 9fec893e316c04a1e81c8aea5e082ef6e44b1974
-SHA256: a964c96ef03fda444a8bdc033ca34aed5fe1e09bf9a708d863fd45cd5e18cfe7
+Size: 31425180
+MD5sum: f2b6a318ee1e2cc809ac41124245a487
+SHA1: 3d2ee9d69037286237eaee1f65ee8bf3f0e19b2b
+SHA256: a1becaf46c9d0e3e849dc36b4d100dbe87d62befbc061fc05ca6dd03c89bb5a6
 Section: Themes
 Description: A custom theme by mchamp90 - MugiX-Extended includes tons of icons the original Dev left out
 Author: mchamp90 <mchamp23@gmail.com.com>
