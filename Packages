@@ -26,6 +26,7 @@ SHA256: 8073311dc9dc19a298da5e6ab1f42a6dea4688d40abfd11acde63d6c754dcdb2
 Section: Themes
 Description: A custom theme by mchamp90 - MugiMaxiX-Extended combines MugiX-Extended and MaxiX-Extended in one neat package
 Author: mchamp90 <mchamp23@gmail.com.com>
+SileoDepiction: https://mchamp90.github.io/sileo/mugimaxix.json
 Depiction: http://mchamp90.github.io/package/MugiMaxiX-Extended/index.html
 Name: MugiMaxiX-Extended
 

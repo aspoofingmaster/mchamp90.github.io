@@ -10,12 +10,12 @@
 			"views":[
 				{
 					"class":"DepictionMarkdownView",
-					"markdown":"#### Adobe style (Inverted) theme for iOS\n\nSnowboard and Anemone theme that brings the Adobe Icon style to iOS (Inverted).",
+					"markdown":"#### MugiX-Extended and MaxiX-Extended\n\nCombines MugiX-Extended and MaxiX-Extended in one neat combo package for easy installation of both!",
 					"useSpacing":true
 				},
 				{
 				    "class":"DepictionImageView",
-				    "URL":"https://mchamp90.github.io/assets/maxixb1.png",
+				    "URL":"https://mchamp90.github.io/assets/mugimaxixb1.png",
 				    "width":540,
 				    "height":540,
 				    "horizontalPadding":30,
@@ -29,15 +29,15 @@
 					"screenshots":[
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://mchamp90.github.io/assets/maxix1.png"
+							"url":"https://mchamp90.github.io/assets/mugimaxix1.png"
 						},
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://mchamp90.github.io/assets/maxix2.png"
+							"url":"https://mchamp90.github.io/assets/mugimaxix2.png"
 						},
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://mchamp90.github.io/assets/maxix3.png"
+							"url":"https://mchamp90.github.io/assets/mugimaxix3.png"
 						}
 					]
 				},
@@ -69,7 +69,7 @@
 				},
 				{
 					"class":"DepictionTableTextView",
-					"text":"24.79 MB",
+					"text":"54.76 MB",
 					"title":"Size"
 				},
 				{

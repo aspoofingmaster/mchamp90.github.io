@@ -15,7 +15,7 @@
 				},
 				{
 				    "class":"DepictionImageView",
-				    "URL":"https://mchamp90.github.io/assets/mugixb1.PNG",
+				    "URL":"https://mchamp90.github.io/assets/mugixb1.png",
 				    "width":540,
 				    "height":540,
 				    "horizontalPadding":30,
@@ -29,15 +29,15 @@
 					"screenshots":[
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://mchamp90.github.io/assets/mugix1.PNG"
+							"url":"https://mchamp90.github.io/assets/mugix1.png"
 						},
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://mchamp90.github.io/assets/mugix2.PNG"
+							"url":"https://mchamp90.github.io/assets/mugix2.png"
 						},
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://mchamp90.github.io/assets/mugix3.PNG"
+							"url":"https://mchamp90.github.io/assets/mugix3.png"
 						}
 					]
 				},
