@@ -10,6 +10,7 @@ SHA256: a3ec3ab3912d0a4ca3a78577ffb57b215451603d307fb63920ad7e09aa50de05
 Section: Themes
 Description: A custom theme by mchamp90 - MaxiX-Extended includes tons of icons the original Dev left out
 Author: mchamp90 <mchamp23@gmail.com.com>
+SileoDepiction: https://mchamp90.github.io/sileo/maxix.json
 Depiction: http://mchamp90.github.io/package/MaxiX-Extended/index.html
 Name: MaxiX-Extended
 
