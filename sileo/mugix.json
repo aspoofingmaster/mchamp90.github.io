@@ -15,7 +15,7 @@
 				},
 				{
 				    "class":"DepictionImageView",
-				    "URL":"https://mchamp90.github.io/assets/mugixb1.png",
+				    "URL":"https://mchamp90.github.io/assets/mugixb1.PNG",
 				    "width":540,
 				    "height":540,
 				    "horizontalPadding":30,
@@ -29,26 +29,21 @@
 					"screenshots":[
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://mchamp90.github.io/assets/mugix1.png"
+							"url":"https://mchamp90.github.io/assets/mugix1.PNG"
 						},
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://mchamp90.github.io/assets/mugix2.png"
+							"url":"https://mchamp90.github.io/assets/mugix2.PNG"
 						},
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://mchamp90.github.io/assets/mugix3.png"
+							"url":"https://mchamp90.github.io/assets/mugix3.PNG"
 						}
 					]
 				},
 				{
 				    "class":"DepictionMarkdownView",
-				    "markdown":"#### DISCLAIMER:\nThis is not my original theme. I just took it upon myself to maintain it since it seems as if the original dev is no longer working on it.",
-				    "useSpacing":true
-				},
-				{
-				    "class":"DepictionMarkdownView",
-				    "markdown":"#### Developer\n\n[mchamp90](https://twitter.com/nozachengel)",
+				    "markdown":"#### Developer:\n[mchamp90](https://twitter.com/nozachengel)",
 				    "useSpacing":true
 				},
 				{
@@ -59,6 +54,11 @@
 				    "horizontalPadding":30,
 				    "cornerRadius":0,
 				    "alignment":1
+				},
+				{
+				    "class":"DepictionMarkdownView",
+				    "markdown":"#### DISCLAIMER:\nThis is not my original theme. I just took it upon myself to maintain it since it seems as if the original dev is no longer working on it.",
+				    "useSpacing":true
 				},
 				{
 					"class":"DepictionSeparatorView"
