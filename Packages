@@ -40,6 +40,7 @@ SHA256: a1becaf46c9d0e3e849dc36b4d100dbe87d62befbc061fc05ca6dd03c89bb5a6
 Section: Themes
 Description: A custom theme by mchamp90 - MugiX-Extended includes tons of icons the original Dev left out
 Author: mchamp90 <mchamp23@gmail.com.com>
+SileoDepiction: https://mchamp90.github.io/sileo/mugix.json
 Depiction: http://mchamp90.github.io/package/MugiX-Extended/index.html
 Name: MugiX-Extended
 
