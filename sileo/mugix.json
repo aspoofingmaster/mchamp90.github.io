@@ -48,14 +48,14 @@
 				},
 				{
 				    "class":"DepictionMarkdownView",
-				    "markdown":"#### Developer\n\n[mchamp90] (https://twitter.com/nozachengel)",
+				    "markdown":"#### Developer\n\n[mchamp90](https://twitter.com/nozachengel)",
 				    "useSpacing":true
 				},
 				{
 				    "class":"DepictionImageView",
 				    "URL":"https://pbs.twimg.com/profile_images/895769754731982848/bRI4x-ou_400x400.jpg",
-				    "width":200,
-				    "height":200,
+				    "width":100,
+				    "height":100,
 				    "horizontalPadding":30,
 				    "cornerRadius":0,
 				    "alignment":1
