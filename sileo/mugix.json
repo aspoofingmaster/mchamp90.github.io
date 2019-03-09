@@ -106,7 +106,7 @@
 				},
 				{
 					"class":"DepictionMarkdownView",
-					"markdown":"2.1 is a small update.\nPlease contact me on twitter if you have any requests!\n\n- Added icons for Apple Measure App, and Apple Shortcuts App.\n\n- Added Alternate icons for Phone/Dialer, and iFunny.",
+					"markdown":"2.1 is a small update.\nPlease contact me on twitter if you have any requests!\n\n- Added icons for Apple Measure App, and Apple Shortcuts App.\n- Added Alternate icons for Phone/Dialer, and iFunny.",
 					"useSpacing":true
 				},
 				{
