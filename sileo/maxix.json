@@ -47,6 +47,11 @@
 				    "useSpacing":true
 				},
 				{
+				    "class":"DepictionMarkdownView",
+				    "markdown":"[Help support future updates with a donation :)](https://www.paypal.me/zacharyengel)\n(Note: if you do choose to donate, please use the \"sending to family/friends\" option. This avoids PayPal charging me a fee on your donation.",
+				    "useSpacing":true
+				},
+				{
 				    "class":"DepictionImageView",
 				    "URL":"https://pbs.twimg.com/profile_images/895769754731982848/bRI4x-ou_400x400.jpg",
 				    "width":100,
