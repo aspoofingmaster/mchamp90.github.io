@@ -1,48 +1,48 @@
 Package: com.mchamp90.maxixextended
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
 Filename: /MaxiX-Extended.deb
-Size: 25996822
-MD5sum: 6a1c89f6df4cd8d47a231fde2e92b184
-SHA1: 3c54f8999b0f083db918a9e0d205fab2a61b49e1
-SHA256: a3ec3ab3912d0a4ca3a78577ffb57b215451603d307fb63920ad7e09aa50de05
+Size: 26245836
+MD5sum: 581757266ff95b4687293d8bb2071968
+SHA1: 3f09acc9b8ad406e65c625a54ba572d24b999454
+SHA256: 36eadd32b7aa0a3e355bcf74f415661700a857c7180737503b5875bd49ebb6ef
 Section: Themes
 Description: A custom theme by mchamp90 - MaxiX-Extended includes tons of icons the original Dev left out
 Author: mchamp90 <mchamp23@gmail.com.com>
-SileoDepiction: https://mchamp90.github.io/sileo/maxix.json
 Depiction: http://mchamp90.github.io/package/MaxiX-Extended/index.html
 Name: MaxiX-Extended
+Sileodepiction: https://mchamp90.github.io/sileo/maxix.json
 
 Package: com.mchamp90.mugimaxixextended
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
 Filename: /MugiMaxiX-Extended.deb
-Size: 57421180
-MD5sum: 25511391d4231c087d4f2378fc6a3735
-SHA1: 90e14d18097e9436dc3f01e23f2ed44d09dfbddd
-SHA256: 8073311dc9dc19a298da5e6ab1f42a6dea4688d40abfd11acde63d6c754dcdb2
+Size: 57762006
+MD5sum: 48c214ba9cfbea216440eca06280cbee
+SHA1: 3eb5af9243e6f32f121bef4d7edbe2dd5346d78c
+SHA256: 438ccf55cfb28adfa68c28882f492902999243d9e31e6d54f059613abff770e3
 Section: Themes
 Description: A custom theme by mchamp90 - MugiMaxiX-Extended combines MugiX-Extended and MaxiX-Extended in one neat package
 Author: mchamp90 <mchamp23@gmail.com.com>
-SileoDepiction: https://mchamp90.github.io/sileo/mugimaxix.json
 Depiction: http://mchamp90.github.io/package/MugiMaxiX-Extended/index.html
 Name: MugiMaxiX-Extended
+Sileodepiction: https://mchamp90.github.io/sileo/mugimaxix.json
 
 Package: com.mchamp90.mugixextended
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
 Filename: /MugiX-Extended.deb
-Size: 31425180
-MD5sum: f2b6a318ee1e2cc809ac41124245a487
-SHA1: 3d2ee9d69037286237eaee1f65ee8bf3f0e19b2b
-SHA256: a1becaf46c9d0e3e849dc36b4d100dbe87d62befbc061fc05ca6dd03c89bb5a6
+Size: 31646916
+MD5sum: b19a9150a5b2748c2635c7878e8bc1f9
+SHA1: 557277f5fe9a8854d8133a2eb1bf8f3289ad8b01
+SHA256: 84c9f149112c20422d6ff0a14ae47762fd601b7457f384782bed2ff0c1fff363
 Section: Themes
 Description: A custom theme by mchamp90 - MugiX-Extended includes tons of icons the original Dev left out
 Author: mchamp90 <mchamp23@gmail.com.com>
-SileoDepiction: https://mchamp90.github.io/sileo/mugix.json
 Depiction: http://mchamp90.github.io/package/MugiX-Extended/index.html
 Name: MugiX-Extended
+Sileodepiction: https://mchamp90.github.io/sileo/mugix.json
 
