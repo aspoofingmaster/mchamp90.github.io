@@ -1,8 +1,0 @@
-Origin: mchamp90's Repo
-Label: mchamp90's Repo
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: My private repo for stuff I've done

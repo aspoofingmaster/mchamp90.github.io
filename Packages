@@ -2,7 +2,7 @@ Package: com.ipc.crackerxi
 Version: 1.1.5
 Architecture: iphoneos-arm
 Maintainer: c0pyn1nja
-Depends: firmware (>= 11.0), ldid (>=2.0), ldid(>>1.2.2-coolstar)
+Depends: firmware (>= 11.0), ldid (>=2.0)
 Filename: /crackerxi.deb
 Size: 5792468
 MD5sum: 188e43ee1fddc6ab6b75bf497967703f
