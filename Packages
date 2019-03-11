@@ -1,3 +1,21 @@
+Package: com.ipc.crackerxi
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: c0pyn1nja
+Depends: firmware (>= 11.0), ldid (>=2.0), ldid(>>1.2.2-coolstar)
+Filename: /crackerxi.deb
+Size: 5792468
+MD5sum: 188e43ee1fddc6ab6b75bf497967703f
+SHA1: c446f3a9e63747b59ad5a448b7f16eb811b4180b
+SHA256: d2617ddb067a13c6b455f2b5317a03791c3f463f7e51849c583dc924e40b7120
+Section: System
+Description: Decrypts iOS Apps
+SileoDepiction: https://mchamp90.github.io/package/crackerxi/crackerxi.json
+Depiction: http://mchamp90.github.io/package/crackerxi/index.html
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+Name: CrackerXI+
+Website: https://iphonecake.com
+
 Package: com.mchamp90.maxixextended
 Version: 2.1
 Architecture: iphoneos-arm
