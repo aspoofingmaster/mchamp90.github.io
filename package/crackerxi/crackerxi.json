@@ -30,7 +30,7 @@
 				},
 				{
 				    "class":"DepictionMarkdownView",
-				    "markdown":"#### What's New\n\nHere's what's new in CrackerXI:\n\n1. Initial release on my repo.\n2. Option to Decrypt Binary only.\n3. Compatible with iOS 12 and unc0ver only.\n4. Minor Fixes",
+				    "markdown":"#### What's New\n\nHere's what's new in CrackerXI+:\n\n1. Initial release on my repo.\n2. Option to Decrypt Binary only.\n3. Compatible with iOS 12 and unc0ver only.\n4. Minor Fixes",
 				    "useSpacing":true
 				},
 				{
