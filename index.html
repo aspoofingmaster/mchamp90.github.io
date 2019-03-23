@@ -52,15 +52,9 @@ a:active {
 /* Columns */
 .column {
     float: left;
-    width: 33.333%;
+    width: 50%;
     padding-left: 10px;
     padding-right: 10px;
-}
-/* Responsive layout - Dual Column on Low Res */
-@media screen and (max-width: 1350px) {
-    .column {
-        width: 50%;
-    }
 }
 /* Responsive layout - Single Column on Mobile */
 @media screen and (max-width: 1050px) {
@@ -69,11 +63,11 @@ a:active {
     }
 }
 
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
+.wrapper {
+  width: 100%;
+  max-width: 1300px;
+  margin-left:auto;
+  margin-right: auto;
 }
 
 /*Big Title in the Navbar*/
@@ -287,8 +281,7 @@ h2 {
 </head>
 <body>
 
-<div class="navbar"
-  <div class="row">
+<div class="navbar">
     <div class="columnnav">
       <div class="bigtitle">mchamp90's Repo</div>
     </div>
@@ -305,10 +298,9 @@ h2 {
         </div>
       </a>
     </div>
-  </div>
 </div>
 
-<div class="row">
+<div class="wrapper">
     <div class="column">
 
       <div class="subtitle">System Tweaks</div>
@@ -327,7 +319,7 @@ h2 {
 
       <div class="subtitle">Themes</div>
 		
-		<a href="package/adobios/index.html">
+		<a href="depiction.html?adobios">
           <div class="box" style="background: linear-gradient(to right, #004759 , #030735);">
             <img src="assets/page-icons/adobios.png" class="packageicon";>
             <h1>AdobiOS</h1>
@@ -345,7 +337,7 @@ h2 {
             <p2>Version 2.2</p2>
           </div></a>
 		  
-        <a href="package/adobioscombo/index.html">
+        <a href="depiction.html?adobioscombo">
           <div class="box" style="background: linear-gradient(to right, #004759 , #030735);">
             <img src="assets/page-icons/adobiosinverted.png" class="packageicon";>
 			<img src="assets/page-icons/adobios.png" class="packageicon";>

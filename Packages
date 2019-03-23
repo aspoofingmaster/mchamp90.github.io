@@ -2,7 +2,7 @@ Package: com.mchamp90.adobios
 Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
-Filename: /adobios.deb
+Filename: package/adobios/adobios.deb
 Size: 32123644
 MD5sum: 86f23aa5bdd78c0b496ff1c5f9ecba2b
 SHA1: 43746f58357a2b71a4f18cddce02899438eef90c
@@ -10,7 +10,7 @@ SHA256: 5a1838743f2e4dc02f8cb576c20ea50e09e045ed2ac34a872fb1809708f1bce3
 Section: Themes
 Description: A custom theme by mchamp90
 Author: mchamp90 <mchamp23@gmail.com>
-Depiction: http://mchamp90.github.io/package/adobios/index.html
+Depiction: http://mchamp90.github.io/depiction?adobios
 Name: AdobiOS
 Sileodepiction: https://mchamp90.github.io/sileo/adobios.json
 
@@ -18,7 +18,7 @@ Package: com.mchamp90.adobioscombo
 Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
-Filename: /adobioscombo.deb
+Filename: package/adobios/adobioscombo.deb
 Size: 58851674
 MD5sum: 87daa4918f655370c0e637f94c336817
 SHA1: 575aa33a556431ab702662e463388f0b329683d5
@@ -26,7 +26,7 @@ SHA256: 8f80c92747c7afad291b1aaae9db7704a49e33dc194b0f5eb6faad49adb6306f
 Section: Themes
 Description: A custom theme by mchamp90 - AdobiOS Combo combines AdobiOS and AdobiOS (Inverted) in one neat package
 Author: mchamp90 <mchamp23@gmail.com>
-Depiction: http://mchamp90.github.io/package/adobioscombo/index.html
+Depiction: http://mchamp90.github.io/depiction?adobioscombo
 Name: AdobiOS Combo
 Sileodepiction: https://mchamp90.github.io/sileo/adobioscombo.json
 
@@ -64,4 +64,3 @@ Icon: file:///Applications/crackerxi.app/AppIcon.png
 Name: CrackerXI+
 Sileodepiction: https://mchamp90.github.io/sileo/crackerxi.json
 Website: https://ipastore.me
-
