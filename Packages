@@ -12,7 +12,7 @@ Description: A custom theme by mchamp90
 Author: mchamp90 <mchamp23@gmail.com>
 Depiction: http://mchamp90.github.io/depiction.html?adobios
 Name: AdobiOS
-Sileodepiction: https://mchamp90.github.io/sileo/adobios.json
+Sileodepiction: https://mchamp90.github.io/package/adobios/adobios.json
 
 Package: com.mchamp90.adobioscombo
 Version: 2.2
@@ -28,7 +28,7 @@ Description: A custom theme by mchamp90 - AdobiOS Combo combines AdobiOS and Ado
 Author: mchamp90 <mchamp23@gmail.com>
 Depiction: http://mchamp90.github.io/depiction.html?adobioscombo
 Name: AdobiOS Combo
-Sileodepiction: https://mchamp90.github.io/sileo/adobioscombo.json
+Sileodepiction: https://mchamp90.github.io/package/adobioscombo/adobioscombo.json
 
 Package: com.mchamp90.adobiosinverted
 Version: 2.2
@@ -44,7 +44,7 @@ Description: A custom theme by mchamp90
 Author: mchamp90 <mchamp23@gmail.com>
 Depiction: http://mchamp90.github.io/depiction.html?adobiosinverted
 Name: AdobiOS (Inverted)
-Sileodepiction: https://mchamp90.github.io/sileo/adobiosinverted.json
+Sileodepiction: https://mchamp90.github.io/package/adobiosinverted/adobiosinverted.json
 
 Package: com.mchamp90.ipc.crackerxi
 Version: 1.1.5
@@ -62,5 +62,5 @@ Author: c0pyn1nja
 Depiction: http://mchamp90.github.io/depiction.html?crackerxi
 Icon: file:///Applications/crackerxi.app/AppIcon.png
 Name: CrackerXI+
-Sileodepiction: https://mchamp90.github.io/sileo/crackerxi.json
+Sileodepiction: https://mchamp90.github.io/package/crackerxi/crackerxi.json
 Website: https://ipastore.me
