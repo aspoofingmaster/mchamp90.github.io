@@ -1,53 +1,52 @@
 <tweak>
 
 <tweakName>
-Tweak Name
+AdobiOS
 </tweakName>
 <tweakShortDescription>
-Package Short Description
+Adobe style theme for iOS
 </tweakShortDescription>
 <tweakDescription>
-Main description and some extra information about the package can go in this long description in here.
+Anemone and Snowboard theme that brings the Adobe Icon style to iOS.
 </tweakDescription>
 
 <tweakSize>
-1 MB
+30.60 MB
 </tweakSize>
 <tweakCategory>
-Tweaks
+Themes
 </tweakCategory>
 <tweakCompatibility>
-iOS 11
+iOS 7-12.1.2
 </tweakCompatibility>
 <tweakVersion>
-1.0
+2.2
 </tweakVersion>
 <tweakUpdateDate>
-20/11/18
+03/17/2019
 </tweakUpdateDate>
 
 <tweakDeveloper>
-Developer Name
+mchamp90's iOS Development
 </tweakDeveloper>
 <tweakDevTwitter>
-@DevName
+@mchamp90_iOS
 </tweakDevTwitter>
 <tweakDevTwitterPic>
-https://pbs.twimg.com/profile_images/1015718760668426245/qIugpEtH_400x400.jpg
+https://pbs.twimg.com/profile_images/895769754731982848/bRI4x-ou_400x400.jpg
 </tweakDevTwitterPic>
 <tweakDevTwitterURL>
-https://twitter.com/TPinpal
+https://twitter.com/mchamp90_iOS
 </tweakDevTwitterURL>
 
 <tweakChangelog>
-• Changed thing number one
-• Important bug fix that didn't do anything
-• Changed item number three
-• Something else that changed.
+• 2.2 is a major update. Please delete previous package and install this package fresh. Please contact me on twitter if you have any requests!
+• Added icons for Apple Frames Shortcut (From Apple Shortcuts app, needs to be added manually to the icon from your theming engine's icon replacement tool), BitTorrent Sync, DoubleU Casino, Google Photo Scanner, Temple Run, Super Mario Run (Alt Icon as well),(Need Liberty Lite Beta from Ryley Angus to play this game on jailbreak), My Talking Tom, Prompt 2, and Prowl.
+• Added icons and alternate icons for Sileo (Sileo for Electra, Sileo Demo IPA, and Sileo for unc0ver).
 </tweakChangelog>
 
 <numOfScreenshots>
-6
+3
 </numOfScreenshots>
 
 </tweak>
