@@ -10,7 +10,7 @@
 			"views":[
 				{
 					"class":"DepictionMarkdownView",
-					"markdown":"Crack apps on iOS 11&12\n\nThis tweak allows you to crack any app on iOS 11&12. This works on Electra (iOS 11 Only) and Unc0ver jailbreaks. You can remove WatchKit and remove UISupportedDevices from the info.plist in settings.",
+					"markdown":"Decrypt apps on iOS 11&12\n\nThis tweak allows you to decrypt any app on iOS 11&12. This works on Electra (iOS 11 Only) and Unc0ver jailbreaks. You can remove WatchKit and remove UISupportedDevices from the info.plist in settings.",
 					"useSpacing":true
 				},
 				{
