@@ -69,7 +69,7 @@
 				},
 				{
 					"class":"DepictionTableTextView",
-					"text":"25.40 MB",
+					"text":"26.30 MB",
 					"title":"Size"
 				},
 				{
@@ -79,17 +79,17 @@
 				},
 				{
 					"class":"DepictionTableTextView",
-					"text":"iOS 8-12.1.2",
+					"text":"iOS 7-12.1.2",
 					"title":"Compatibility"
 				},
 				{
 					"class":"DepictionTableTextView",
-					"text":"2.2",
+					"text":"2.3",
 					"title":"Version"
 				},
 				{
 					"class":"DepictionTableTextView",
-					"text":"March 17th 2019",
+					"text":"March 24th 2019",
 					"title":"Updated"
 				},
 			]
@@ -99,6 +99,20 @@
 			"tabname":"Changelog",
 			"views":[
 			    {
+					"class":"DepictionSubheaderView",
+					"title":"2.3",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"2.3 contains icons requested by donation.\nPlease contact me on twitter if you have any requests!\n\n- Added icons for Conexus Banking App, Overwatch League App, Dexter App, CIBC Banking App, DANZ, The Impossible Game, Provenance, Junecloud Deliveries, Movie Times, TV Times, Microsoft RDP, Timer+, NHL, BloonSTD 6, Patreon, Playstation app, Charge, NLL, Filebrowser Biz, Weather Network, Apps Manager (Tigi), UFC, XE Currency, Yahoo Fantasy, Colloquoy, Keybase, FSync(), and RU Mail Cloud.",
+					"useSpacing":true
+				},
+				{
+					"class":"DepictionSeparatorView"
+				},
+				{
 					"class":"DepictionSubheaderView",
 					"title":"2.2",
 					"useBoldText":true,

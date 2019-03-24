@@ -11,7 +11,7 @@ Anemone and Snowboard theme that brings the Adobe Icon style to iOS. (Inverted)
 </tweakDescription>
 
 <tweakSize>
-25.40 MB
+26.30 MB
 </tweakSize>
 <tweakCategory>
 Themes
@@ -20,10 +20,10 @@ Themes
 iOS 7-12.1.2
 </tweakCompatibility>
 <tweakVersion>
-2.2
+2.3
 </tweakVersion>
 <tweakUpdateDate>
-03/17/2019
+03/24/2019
 </tweakUpdateDate>
 
 <tweakDeveloper>
@@ -40,9 +40,8 @@ https://twitter.com/mchamp90_iOS
 </tweakDevTwitterURL>
 
 <tweakChangelog>
-• 2.2 is a major update. Please delete previous package and install this package fresh. Please contact me on twitter if you have any requests!
-• Added icons for Apple Frames Shortcut (From Apple Shortcuts app, needs to be added manually to the icon from your theming engine's icon replacement tool), BitTorrent Sync, DoubleU Casino, Google Photo Scanner, Temple Run, Super Mario Run (Alt Icon as well),(Need Liberty Lite Beta from Ryley Angus to play this game on jailbreak), My Talking Tom, Prompt 2, and Prowl.
-• Added icons and alternate icons for Sileo (Sileo for Electra, Sileo Demo IPA, and Sileo for unc0ver).
+• 2.3 contains icons requested by donation. Please contact me on twitter if you have any requests!
+• Added icons for Conexus Banking App, Overwatch League App, Dexter App, CIBC Banking App, DANZ, The Impossible Game, Provenance, Junecloud Deliveries, Movie Times, TV Times, Microsoft RDP, Timer+, NHL, BloonSTD 6, Patreon, Playstation app, Charge, NLL, Filebrowser Biz, Weather Network, Apps Manager (Tigi), UFC, XE Currency, Yahoo Fantasy, Colloquoy, Keybase, FSync(), and RU Mail Cloud.
 </tweakChangelog>
 
 <numOfScreenshots>

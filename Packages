@@ -1,12 +1,12 @@
 Package: com.mchamp90.adobios
-Version: 2.2
+Version: 2.3
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
-Filename: package/adobios/adobios.deb
-Size: 32123644
-MD5sum: 86f23aa5bdd78c0b496ff1c5f9ecba2b
-SHA1: 43746f58357a2b71a4f18cddce02899438eef90c
-SHA256: 5a1838743f2e4dc02f8cb576c20ea50e09e045ed2ac34a872fb1809708f1bce3
+Filename: /adobios.deb
+Size: 33011182
+MD5sum: de8880c521206897cc9ec2955b01efe6
+SHA1: 12c8ca5b6beb4e4792f6ed2423305acb2b335905
+SHA256: dd15a70a8fc2544456da50931c75966d029b3fc7effd2996fc3e5c3d490ba7a2
 Section: Themes
 Description: A custom theme by mchamp90
 Author: mchamp90 <mchamp23@gmail.com>
@@ -15,14 +15,14 @@ Name: AdobiOS
 Sileodepiction: https://mchamp90.github.io/package/adobios/adobios.json
 
 Package: com.mchamp90.adobioscombo
-Version: 2.2
+Version: 2.3
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
-Filename: package/adobios/adobioscombo.deb
-Size: 58851674
-MD5sum: 87daa4918f655370c0e637f94c336817
-SHA1: 575aa33a556431ab702662e463388f0b329683d5
-SHA256: 8f80c92747c7afad291b1aaae9db7704a49e33dc194b0f5eb6faad49adb6306f
+Filename: /adobioscombo.deb
+Size: 60625144
+MD5sum: 768b45e231626ac25a23085ba0d25c96
+SHA1: 2c45cf83cd5f8856b928e2513a62d477f6e55954
+SHA256: e1dd7525ad666d6d7ed128a19cac095bbd6915d73fc0cff4c714f44277f4c4cc
 Section: Themes
 Description: A custom theme by mchamp90 - AdobiOS Combo combines AdobiOS and AdobiOS (Inverted) in one neat package
 Author: mchamp90 <mchamp23@gmail.com>
@@ -31,14 +31,14 @@ Name: AdobiOS Combo
 Sileodepiction: https://mchamp90.github.io/package/adobioscombo/adobioscombo.json
 
 Package: com.mchamp90.adobiosinverted
-Version: 2.2
+Version: 2.3
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
-Filename: package/adobiosinverted/adobiosinverted.deb
-Size: 26728946
-MD5sum: 2863cf7239aad4b11a42f5212210726e
-SHA1: df8a6b1ab97c683458fbfe2ca098c480dfe248d8
-SHA256: 44f06e88c06a2116e058a5608b7e327b0eff07253b8274939df1a80fd736e86f
+Filename: /adobiosinverted.deb
+Size: 27614860
+MD5sum: 02df8895f9300a8fa88a01cd4613681f
+SHA1: 2ad173eac3ef67c996c5905773b9e7adf6e0f354
+SHA256: dd490845c7c65d84eb9624de9a8051937aa25aed53c3122aed05351e648ae5fa
 Section: Themes
 Description: A custom theme by mchamp90
 Author: mchamp90 <mchamp23@gmail.com>
@@ -51,11 +51,11 @@ Version: 1.1.5
 Architecture: iphoneos-arm
 Maintainer: mchamp90 <mchamp23@gmail.com>
 Depends: firmware (>= 11.0), ldid (>=2.0)
-Filename: package/crackerxi/crackerxi.deb
-Size: 9560738
-MD5sum: 3dca239ff3083dffeefc209cfc69da22
-SHA1: e0248dd2ff672c956fcfbe17524079c8a8e20e1d
-SHA256: f4d2c0632ba8928bba042e46cc6eeef9d7783d48f93bc60ba83e618ced158e32
+Filename: /crackerxi.deb
+Size: 9560746
+MD5sum: 5e348637bc3f88c0f384c7e173f30e8a
+SHA1: 17ba1b5f97723eb0ad0740ef2579580e3603f748
+SHA256: 5e1c9a9696aa2ad6a06de4e622feb5afd820a69bffc5742b9ee54ea5d1af8549
 Section: System
 Description: Decrypts iOS 11-12.1.2 Apps
 Author: c0pyn1nja
@@ -64,3 +64,4 @@ Icon: file:///Applications/crackerxi.app/AppIcon.png
 Name: CrackerXI+
 Sileodepiction: https://mchamp90.github.io/package/crackerxi/crackerxi.json
 Website: https://ipastore.me
+
