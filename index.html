@@ -1,196 +1,317 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>mchamp90's repo</title>
-  <link rel="icon" href="assets/favicon.ico" class="next-head" />
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" type="text/css" href="https://pinpal.github.io/assets/homepage/stylesheet.css">
-  <link rel="stylesheet" type="text/css" href="https://pinpal.github.io/assets/homepage/touchscreenOnly.css" id="touchScreenStylesheet" disabled>
-  <link rel="stylesheet" type="text/css" href="https://pinpal.github.io/assets/global-navbar/navbar.css">
-</head>
+    <title>Repo Moved!</title>
+    <link rel="icon" href="assets/favicon.ico" class="next-head" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
 <style>
-  @font-face { font-family: "SF Pro Display"; src: url("assets/SF-Pro-Display-Regular.otf"); }
-  * {
-    font-family: 'SF Pro Display', sans-serif;
-  }
-</style>
-<body>
 
-<div id="navbarContainer">
-    <div id="navbar">
-          <a href="https://mchamp90.github.io/"><img class="logo" src="assets/mchamp90.png"></a>
-          <a href="https://mchamp90.github.io/"><h1 id="title">mchamp90's iOS Repo</h1></a>
+* {
+  font-family: 'Nunito', sans-serif;
+  color: white;
+}
 
-        <div class="navIconContainer">
-          <a href="https://twitter.com/mchamp90_ios" target="_blank">
-            <div class="navButton" style="background: linear-gradient(to right, #55ACEF , #0A76E7)">
-              <img src="assets/page-icons/twitter.png" class="navButtonIcon" align="left">Twitter
-            </div></a>
-      
-          <a href="https://github.com/mchamp90" target="_blank">
-            <div class="navButton" style="background: linear-gradient(to right, #AA4DB4 , #8A3699)">
-              <img src="assets/page-icons/github.png" class="navButtonIcon" align="left">Github
-            </div></a>
-    
-          <a href="https://discordapp.com/invite/jb" target="_blank">
-            <div class="navButton" style="background: linear-gradient(to right, #83A1DA , #6380B4)">
-              <img src="assets/page-icons/discord.png" class="navButtonIcon" align="left">Discord
-            </div></a>
+body {
+  background-color: #292C30;
+}
 
-            <a href="sileo://source/https://mchamp90.github.io/">
-              <div class="navButton" style="background: linear-gradient(to right, #31D8C0 , #17979F)">
-                <img src="assets/page-icons/sileo.png" class="navButtonIcon" align="left">Add to Sileo
-              </div></a>
+a {
+  text-decoration: none;
+}
 
-          <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://mchamp90.github.io/">
-            <div class="navButton" style="background: linear-gradient(to right, #CB8A74 , #8D5A40)">
-              <img src="assets/page-icons/cydia.png" class="navButtonIcon" align="left">Add to Cydia
-            </div></a>
-        </div>
-      </div>
-  </div>
+/*Wrapper*/
+.wrapper {
+  position: absolute;
+  width: calc(100% - 10px);
+  text-align: center;
+  max-width: 850px;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+/* Columns */
+.column {
+    float: left;
+    width: 50%;
+}
+
+/* Responsive layout - Single Column on Mobile */
+@media screen and (max-width: 850px) {
+    .column {
+        width: 100%;
+    }
+    .wrapper {
+      top: 0;
+      -ms-transform: translate(-50%, 0);
+      transform: translate(-50%, 0);
+    }
+}
+
+
+
+/*Subtitles above boxes*/
+.subtitle {
+  font-size: 20pt;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 0;
+}
+h2 {
+  font-size: 20px;
+  font-weight: normal;
+  margin: 0;
+}
+
+.bigbox {
+  background: #2F3439;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+  text-align: left;
+  border-radius: 25px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  width: calc(100% - 70px);
+  max-width: 350px;
+  line-height: 1.5;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.03);
+  border-width: 2px;
+}
+
+/* Button1 */
+.button1 {
+  background: linear-gradient(to right, #31D8C0 , #17979F);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+  text-align: center;
+  border-radius: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color:white;
+  font-size: 14pt;
+  max-height: 50px;
+  line-height: 50px;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+}
+.button1:hover {
+  filter: hue-rotate(90deg);
+  font-size: 16pt;
+}
+
+/* Button2 */
+.button2 {
+  background: linear-gradient(to right, #CB8A74 , #8D5A40);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+  text-align: center;
+  border-radius: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color:white;
+  font-size: 14pt;
+  max-height: 50px;
+  line-height: 50px;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+}
+.button2:hover {
+  filter: hue-rotate(90deg);
+  font-size: 16pt;
+}
+
+.twitter {
+  width: 70px;
+  margin-right: 20px;
+}
+
+.packageicon {
+  width: 37px;
+  height: 37px;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+}
+.packageBox:hover .packageicon {
+  width: 57px;
+  height: 57px;
+}
+
+.packageIconHolder {
+  width: 37px;
+  height: 37px;
+  padding: 10px;
+  border-radius: 15px;
+  left: 16px;
+  top: 14px;
+  z-index: 0;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  position: absolute;
+}
+.packageBox:hover .packageIconHolder {
+  padding: 55px;
+  left: -35px;
+  top: -41px;
+  width: 500px;
+  height: 300px;
+}
+
+.packageContentHolder {
+  position: absolute;
+  left: 110px;
+  top: 16px;
+  max-width: 290px;
+  overflow: hidden;
+  max-height: 80px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+}
+.packageBox:hover .packageContentHolder {
+  top: 15px;
+}
+
+.packageTitle {
+  font-weight: bold;
+  font-size: 14pt;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+}
+.packageBox:hover .packageTitle {
+  font-size: 16pt;
+}
+
+.packageDescription, .packageGreyDescription {
+  font-weight: normal;
+  font-size: 12.5pt;
+}
+.packageGreyDescription {
+  color: rgba(255,255,255,.6)
+}
+
+.packageBox {
+  background: #2F3439;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+  text-align: left;
+  color: white;
+  border-radius: 25px;
+  padding: 15px;
+  line-height: 1.5;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.03);
+  border-width: 2px;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+  min-height: 55px;
+  max-height: 55px;
+  width: calc(100% - 60px);
+  max-width: 350px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: relative;
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+}
+
+p {
+  font-size: 12.5pt;
+}
+
+</style><body>
 
   <div class="wrapper">
 
-<div class="subsection">
-<h2 id="subtitle">Repository</h2>
-<h2 id="subsubtitle">Tweaks and Themes on this Repo.</h2>
+    <div class="column">
+      <div class="subtitle">404!</div>
 
-<button class="button" onclick="expand('scrollerRepo')" id="scrollerRepoButton">
-  <img class="buttonIcon" src="https://pinpal.github.io/assets/homepage/expand.png">Show More
-</button>
+      <div class="bigbox">
+        <h1>Repo has moved!</h1>
+        <h2>The repo you are looking for has been moved!</h2>
+        <p>You can add my new repo URL using one of the following buttons!</p>
+        <a href=sileo://source/http://repo.mchamp90.com/><div class="button1">Add to Sileo</div></a>
+		</br>
+		<a href=cydia://url/https://cydia.saurik.com/api/share#?source=http://repo.mchamp90.com/><div class="button2">Add to Cydia</div></a>
+      </div>
 
-<div class="scrollerContainer" id="scrollerRepoContainer">
-  <div class="scroller" id="scrollerRepo">
-
-      <a href="depiction.html?adobios">
-      <div class="bigBox">
-        <div class="packageIconHolder" style="background: linear-gradient(to right, #573866 , #413a77)">
-          <img src="assets/page-icons/adobios.png" class="packageicon";>
-        </div>
-        <div class="packageContentHolder">
-          <span class="packageTitle">AdobiOS</span>
-          <br><span class="packageDescription"> Anemone and Snowboard Theme: Adobe style icons.</span>
-        </div>
-      </div></a>
+    </div>
     
-      <a href="depiction.html?adobiosinverted">
-      <div class="bigBox">
-        <div class="packageIconHolder" style="background: linear-gradient(to right, #573866 , #413a77)">
-          <img src="assets/page-icons/adobiosinverted.png" class="packageicon";>
-        </div>
-        <div class="packageContentHolder">
-          <span class="packageTitle">AdobiOS (Inverted)</span>
-          <br><span class="packageDescription">Anemone and Snowboard Theme: Adobe style icons (Inverted)</span>
-        </div>
-      </div></a>
-    
-      <a href="depiction.html?adobioscombo">
-      <div class="bigBox">
-        <div class="packageIconHolder" style="background: linear-gradient(to right, #573866 , #413a77)">
-          <img src="assets/page-icons/adobioscombo.png" class="packageicon";>
-        </div>
-        <div class="packageContentHolder">
-          <span class="packageTitle">AdobiOS Combo</span>
-          <br><span class="packageDescription">Combines AdobiOS and AdobiOS (Inverted) in a neat combo package</span>
-        </div>
-      </div></a>
-    
-      <a href="depiction3rdparty.html?crackerxi">
-      <div class="bigBox">
-        <div class="packageIconHolder" style="background: linear-gradient(to right, #573866 , #413a77)">
-          <img src="assets/page-icons/crackerxi.png" class="packageicon";>
-        </div>
-        <div class="packageContentHolder">
-          <span class="packageTitle">CrackerXI+</span>
-          <br><span class="packageDescription">Decrypt apps on iOS 11&12</span>
-        </div>
-      </div></a>
-  
-</div></div></div>
-  <div class="subsection">
-  <h2 id="subtitle">Pages</h2>
-  <h2 id="subsubtitle">Webpages or Guides on PINPAL's Site.</h2>
+    <div class="column">
+      <div class="subtitle">Contact Me</div>
 
-  <button class="button" onclick="expand('scrollerPages')" id="scrollerPagesButton">
-    <img class="buttonIcon" src="https://pinpal.github.io/assets/homepage/expand.png">Show More
-  </button>
-
-  <div class="scrollerContainer" id="scrollerPagesContainer">
-      <div class="scroller" id="scrollerPages">
-      
-        <a href="https://pinpal.github.io/stock-identifiers.html" target="_blank">
-        <div class="bigBox">
-          <div class="packageIconHolder" style="background: linear-gradient(to right, #3B8CB7 , #0A76E7)">
-            <img src="assets/page-icons/bundleID.png" class="packageicon";>
-          </div>
-          <div class="packageContentHolder">
-            <span class="packageTitle">iOS Bundle Identifiers</span>
-            <br><span class="packageDescription">A complete list of the stock Applications BundleIDs in iOS 12.</span>
-          </div>
-        </div></a>
-        
-        <a href="https://pinpal.github.io/theme-guide.html" target="_blank">
-        <div class="bigBox">
-          <div class="packageIconHolder" style="background: linear-gradient(to right, #d3325f , #FA3D72)">
-            <img src="assets/page-icons/anemone.png" class="packageicon";>
-          </div>
-          <div class="packageContentHolder">
-            <span class="packageTitle">iOS Theme Guide</span>
-            <br><span class="packageDescription">A beginners guide to creating a theme for SnowBoard or Anemone.</span>
-          </div>
-        </div></a>
-      
-        <a href="https://pinpal.github.io/shortcuts.html" target="_blank">
-        <div class="bigBox">
-          <div class="packageIconHolder" style="background: linear-gradient(to right, #510491 , #5f027a)">
-            <img src="assets/page-icons/home.png" class="packageicon";>
-          </div>
-          <div class="packageContentHolder">
-            <span class="packageTitle">Shortcuts Homepage</span>
-            <br><span class="packageDescription">A dark, clean and minimal browser homepage full of shortcuts.</span>
-          </div>
-        </div></a>
-  
-</div></div></div>
-  <div class="subsection">
-  <h2 id="subtitle">Other Stuff</h2>
-  <h2 id="subsubtitle">Projects, links, etc.</h2>
-
-  <button class="button" onclick="expand('scrollerProjects')" id="scrollerProjectsButton">
-    <img class="buttonIcon" src="https://pinpal.github.io/assets/homepage/expand.png">Show More
-  </button>
-
-  <div class="scrollerContainer" id="scrollerProjectsContainer">
-    <div class="scroller" id="scrollerProjects">
-
-        <a href="https://pokego2.com" target="_blank">
-          <div class="bigBox">
-            <div class="packageIconHolder" style="background: linear-gradient(to right, #573866 , #413a77)">
-              <img src="assets/page-icons/globalblack.png" class="packageicon";>
+      <a href="https://discordapp.com/channels/@me">
+          <div class="packageBox">
+            <div class="packageIconHolder" style="background: linear-gradient(to right, #83A1DA , #6380B4)">
+              <img src="http://repo.mchamp90.com/assets/page-icons/discord.png" class="packageicon";>
             </div>
             <div class="packageContentHolder">
-              <span class="packageTitle">Global++ Repo</span>
-              <br><span class="packageDescription">Global++ Tweaks iOS Repo</span>
+              <span class="packageTitle">Discord</span>
+              <br><span class="packageDescription">mchamp90#0666</span>
             </div>
-          </div></a>
-		  
-		<a href="https://paypal.me/zacharyengel" target="_blank">
-          <div class="bigBox">
-            <div class="packageIconHolder" style="background: linear-gradient(to right, #573866 , #413a77)">
-              <img src="assets/page-icons/paypal.png" class="packageicon";>
+          </div>
+        </a>
+
+        <a href="https://twitter.com/mchamp90_ios">
+          <div class="packageBox">
+            <div class="packageIconHolder" style="background: linear-gradient(to right, #55ACEF , #0A76E7)">
+              <img src="http://repo.mchamp90.com/assets/page-icons/twitter.png" class="packageicon";>
             </div>
             <div class="packageContentHolder">
-              <span class="packageTitle">Donate (PayPal)</span>
-              <br><span class="packageDescription">Donate to mchamp90 with PayPal</span>
+              <span class="packageTitle">Twitter</span>
+              <br><span class="packageDescription">@mchamp90_iOS</span>
             </div>
-          </div></a>
-           
-    </div></div></div>
-
+          </div>
+        </a>
+      
+        <a href="https://github.com/mchamp90/">
+          <div class="packageBox">
+            <div class="packageIconHolder" style="background: linear-gradient(to right, #AA4DB4 , #8A3699)">
+              <img src="http://repo.mchamp90.com/assets/page-icons/github.png" class="packageicon";>
+            </div>
+            <div class="packageContentHolder">
+              <span class="packageTitle">Github</span>
+              <br><span class="packageDescription">mchamp90</span>
+            </div>
+          </div>
+        </a>
+    </div>
 </body>
-<head>
-    <script src="https://pinpal.github.io/assets/homepage/javascript.js"></script>
-    <script src="https://pinpal.github.io/assets/global-navbar/navbar.js"></script>
-</head>
-</html>
+<script>
+  if (window.location.pathname == "/theme-guide/home.html") {
+    window.location.href = "https://pinpal.github.io/theme-guide.html"
+  }
+  if (window.location.pathname == "/package/Bleed/index.html") {
+    window.location.href = "https://repo.packix.com/package/com.pinpal.bleed/"
+  }
+</script>
